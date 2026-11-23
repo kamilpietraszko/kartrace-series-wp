@@ -1,0 +1,15 @@
+# system
+.DS_Store
+Thumbs.db
+# edytory
+.idea/
+.vscode/
+*.swp
+# paczki i pliki robocze
+*.zip
+*.log
+node_modules/
+# dane lokalne — nie publikować
+*.xlsx
+.env
+wp-config.php
